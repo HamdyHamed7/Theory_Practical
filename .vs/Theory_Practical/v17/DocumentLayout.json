@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# Project\\Theory_Practical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23DD01C2-A333-4251-89D4-7CE9BD5DC316}|CFGToPDA\\CFGToPDA.csproj|e:\\c# project\\theory_practical\\cfgtopda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23DD01C2-A333-4251-89D4-7CE9BD5DC316}|CFGToPDA\\CFGToPDA.csproj|solutionrelative:cfgtopda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C892B1FA-7B68-4D44-8EA2-DDE1EAB61C52}|TuringMachine\\TuringMachine.csproj|E:\\C# Project\\Theory_Practical\\turingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C892B1FA-7B68-4D44-8EA2-DDE1EAB61C52}|TuringMachine\\TuringMachine.csproj|solutionrelative:turingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE3FBB1-0774-48D2-8403-1A4663ADE460}|DfaMinimizer\\DfaMinimizer.csproj|E:\\C# Project\\Theory_Practical\\dfaminimizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE3FBB1-0774-48D2-8403-1A4663ADE460}|DfaMinimizer\\DfaMinimizer.csproj|solutionrelative:dfaminimizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# Project\\Theory_Practical\\DfaMinimizer\\Program.cs",
+              "RelativeDocumentMoniker": "DfaMinimizer\\Program.cs",
+              "ToolTip": "E:\\C# Project\\Theory_Practical\\DfaMinimizer\\Program.cs",
+              "RelativeToolTip": "DfaMinimizer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:35:49.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# Project\\Theory_Practical\\TuringMachine\\Program.cs",
+              "RelativeDocumentMoniker": "TuringMachine\\Program.cs",
+              "ToolTip": "E:\\C# Project\\Theory_Practical\\TuringMachine\\Program.cs",
+              "RelativeToolTip": "TuringMachine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:30:33.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# Project\\Theory_Practical\\CFGToPDA\\Program.cs",
+              "RelativeDocumentMoniker": "CFGToPDA\\Program.cs",
+              "ToolTip": "E:\\C# Project\\Theory_Practical\\CFGToPDA\\Program.cs",
+              "RelativeToolTip": "CFGToPDA\\Program.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:29:14.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
