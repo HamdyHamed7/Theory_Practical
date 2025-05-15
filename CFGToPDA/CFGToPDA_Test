@@ -1,0 +1,21 @@
+using Xunit;
+
+namespace Theory_Practical.Tests
+{
+    public class ProgramTests
+    {
+        [Fact]
+        public void ExampleFunction_ShouldReturnExpectedResult()
+        {
+            // Arrange
+            var expected = "ExpectedResult";
+            var program = new Program(); // افترض أن لديك كلاس اسمه Program
+
+            // Act
+            var actual = program.ExampleFunction(); // افترض أن لديك دالة اسمها ExampleFunction
+
+            // Assert
+            Assert.Equal(expected, actual);
+        }
+    }
+}
